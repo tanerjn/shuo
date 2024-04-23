@@ -15,7 +15,7 @@ const Page404 = () => {
         </h1>
         <h4 className="text-4xl font-semibold">Page Not Found</h4>
         <p className="text-neutral-500">
-          The page you are looking for doesn&apos;t exist or has been moved.
+          Page you are looking for doesn&apos;t exist or has been moved.
         </p>
         <div className="flex items-center justify-center gap-5">
           <ButtonPrimary sizeClass="px-5 py-4">Get Started</ButtonPrimary>
